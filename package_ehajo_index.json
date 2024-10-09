@@ -6,7 +6,7 @@
 		"email": "info@ehajo.de",
 		"websiteURL": "http://www.eHaJo.de", 
 		"help":{  
-			"online": "https://www.ehajo.de/42/books/arduino-boardmanager"
+			"online": "https://github.com/ehajo/arduino-boards/wiki"
 		},
 		"platforms": [  
 		{  
